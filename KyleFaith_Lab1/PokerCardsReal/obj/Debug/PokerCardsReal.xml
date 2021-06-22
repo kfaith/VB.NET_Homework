@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PokerCardsReal
+</name>
+</assembly>
+<members>
+<member name="T:PokerCardsReal.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PokerCardsReal.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PokerCardsReal.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PokerCardsReal.My.Resources.Resources._3_Spades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PokerCardsReal.My.Resources.Resources._5_Clubs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PokerCardsReal.My.Resources.Resources.Ace_Hearts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PokerCardsReal.My.Resources.Resources.Jack_Diamonds">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PokerCardsReal.My.Resources.Resources.Joker_Red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

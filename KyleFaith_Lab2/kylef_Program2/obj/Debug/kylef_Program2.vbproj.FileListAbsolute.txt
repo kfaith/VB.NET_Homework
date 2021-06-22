@@ -1,0 +1,12 @@
+C:\Users\kylef\source\repos\kylef_Program2\bin\Debug\kylef_Program2.exe.config
+C:\Users\kylef\source\repos\kylef_Program2\bin\Debug\kylef_Program2.exe
+C:\Users\kylef\source\repos\kylef_Program2\bin\Debug\kylef_Program2.pdb
+C:\Users\kylef\source\repos\kylef_Program2\bin\Debug\kylef_Program2.xml
+C:\Users\kylef\source\repos\kylef_Program2\obj\Debug\kylef_Program2.vbprojAssemblyReference.cache
+C:\Users\kylef\source\repos\kylef_Program2\obj\Debug\kylef_Program2.PiggyBank.resources
+C:\Users\kylef\source\repos\kylef_Program2\obj\Debug\kylef_Program2.Resources.resources
+C:\Users\kylef\source\repos\kylef_Program2\obj\Debug\kylef_Program2.vbproj.GenerateResource.cache
+C:\Users\kylef\source\repos\kylef_Program2\obj\Debug\kylef_Program2.vbproj.CoreCompileInputs.cache
+C:\Users\kylef\source\repos\kylef_Program2\obj\Debug\kylef_Program2.exe
+C:\Users\kylef\source\repos\kylef_Program2\obj\Debug\kylef_Program2.xml
+C:\Users\kylef\source\repos\kylef_Program2\obj\Debug\kylef_Program2.pdb

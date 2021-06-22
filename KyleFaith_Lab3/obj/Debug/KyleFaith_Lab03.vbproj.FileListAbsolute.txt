@@ -1,0 +1,12 @@
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\bin\Debug\KyleFaith_Lab03.exe.config
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\bin\Debug\KyleFaith_Lab03.exe
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\bin\Debug\KyleFaith_Lab03.pdb
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\bin\Debug\KyleFaith_Lab03.xml
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\obj\Debug\KyleFaith_Lab03.vbprojAssemblyReference.cache
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\obj\Debug\KyleFaith_Lab03.PiggyBank.resources
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\obj\Debug\KyleFaith_Lab03.Resources.resources
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\obj\Debug\KyleFaith_Lab03.vbproj.GenerateResource.cache
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\obj\Debug\KyleFaith_Lab03.vbproj.CoreCompileInputs.cache
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\obj\Debug\KyleFaith_Lab03.exe
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\obj\Debug\KyleFaith_Lab03.xml
+Z:\Computer Science\VB.NET\KyleFaith_Lab03\obj\Debug\KyleFaith_Lab03.pdb

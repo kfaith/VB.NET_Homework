@@ -1,0 +1,12 @@
+Z:\Computer Science\PokerCardsReal\bin\Debug\PokerCardsReal.exe.config
+Z:\Computer Science\PokerCardsReal\bin\Debug\PokerCardsReal.exe
+Z:\Computer Science\PokerCardsReal\bin\Debug\PokerCardsReal.pdb
+Z:\Computer Science\PokerCardsReal\bin\Debug\PokerCardsReal.xml
+Z:\Computer Science\PokerCardsReal\obj\Debug\PokerCardsReal.vbprojAssemblyReference.cache
+Z:\Computer Science\PokerCardsReal\obj\Debug\PokerCardsReal.Form1.resources
+Z:\Computer Science\PokerCardsReal\obj\Debug\PokerCardsReal.Resources.resources
+Z:\Computer Science\PokerCardsReal\obj\Debug\PokerCardsReal.vbproj.GenerateResource.cache
+Z:\Computer Science\PokerCardsReal\obj\Debug\PokerCardsReal.vbproj.CoreCompileInputs.cache
+Z:\Computer Science\PokerCardsReal\obj\Debug\PokerCardsReal.exe
+Z:\Computer Science\PokerCardsReal\obj\Debug\PokerCardsReal.xml
+Z:\Computer Science\PokerCardsReal\obj\Debug\PokerCardsReal.pdb
