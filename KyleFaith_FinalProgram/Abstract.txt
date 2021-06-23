@@ -1,0 +1,4 @@
+The program is ran by left clicking to start the timer, and once started it begins to 
+make rectangles of varying shapes and sizes between 1 and 255. Every tick it makes a 
+new rectangle. When left clicking the program again it pauses the timer so no more 
+rectangles are created.

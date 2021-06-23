@@ -1,0 +1,11 @@
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\bin\Debug\KyleFaith_Final.exe.config
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\bin\Debug\KyleFaith_Final.exe
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\bin\Debug\KyleFaith_Final.pdb
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\bin\Debug\KyleFaith_Final.xml
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\obj\Debug\KyleFaith_Final.vbprojAssemblyReference.cache
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\obj\Debug\KyleFaith_Final.Resources.resources
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\obj\Debug\KyleFaith_Final.vbproj.GenerateResource.cache
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\obj\Debug\KyleFaith_Final.exe
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\obj\Debug\KyleFaith_Final.xml
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\obj\Debug\KyleFaith_Final.pdb
+D:\Computer Science\Visual Basic\KyleFaith_Final\KyleFaith_Final\obj\Debug\KyleFaith_Final.Form1.resources
