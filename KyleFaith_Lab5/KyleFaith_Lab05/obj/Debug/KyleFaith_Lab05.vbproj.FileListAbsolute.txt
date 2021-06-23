@@ -1,0 +1,11 @@
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\bin\Debug\KyleFaith_Lab05.exe.config
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\bin\Debug\KyleFaith_Lab05.exe
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\bin\Debug\KyleFaith_Lab05.pdb
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\bin\Debug\KyleFaith_Lab05.xml
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\obj\Debug\KyleFaith_Lab05.vbprojAssemblyReference.cache
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\obj\Debug\KyleFaith_Lab05.RestaurantBill.resources
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\obj\Debug\KyleFaith_Lab05.Resources.resources
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\obj\Debug\KyleFaith_Lab05.vbproj.GenerateResource.cache
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\obj\Debug\KyleFaith_Lab05.exe
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\obj\Debug\KyleFaith_Lab05.xml
+D:\Computer Science\Visual Basic\KyleFaith_Lab05\KyleFaith_Lab05\obj\Debug\KyleFaith_Lab05.pdb

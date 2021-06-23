@@ -1,0 +1,11 @@
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\bin\Debug\KyleFaith_Lab06.exe.config
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\bin\Debug\KyleFaith_Lab06.exe
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\bin\Debug\KyleFaith_Lab06.pdb
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\bin\Debug\KyleFaith_Lab06.xml
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\obj\Debug\KyleFaith_Lab06.vbprojAssemblyReference.cache
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\obj\Debug\KyleFaith_Lab06.Resources.resources
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\obj\Debug\KyleFaith_Lab06.vbproj.GenerateResource.cache
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\obj\Debug\KyleFaith_Lab06.exe
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\obj\Debug\KyleFaith_Lab06.xml
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\obj\Debug\KyleFaith_Lab06.pdb
+D:\Computer Science\Visual Basic\KyleFaith_Lab06\KyleFaith_Lab06\obj\Debug\KyleFaith_Lab06.SemesterAverages.resources

@@ -1,0 +1,12 @@
+1.) For a six-character password, how many possible passwords are there, assuming characters
+    can be repeated. 
+	
+    For a six-character password, there would be 255^6 different possible passwords. (274,941,996,890,625 combinations)
+    255, 255, 255, 255, 255, 255
+
+
+2.) For a six-character password, how many possible passwords are there, assuming characters
+    cannot be repeated. 
+
+    For a six-character password with no repetition, there would be 255!/250! different possible passwords. (259,124,124,626,530,000 combinations)	
+    255, 254, 253, 252, 251, 250
